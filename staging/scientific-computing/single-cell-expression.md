@@ -9,5 +9,5 @@
    - Study of how to use scRNA-seq for clinical use and precision medicine.
 
 <!-- resources -->
-[paper-ovarian-teratomas]   : https://www.frontiersin.org/articles/10.3389/fimmu.2023.1131814/full
+[paper-ovarian-teratomas]: https://www.frontiersin.org/articles/10.3389/fimmu.2023.1131814/full
 [paper-therapeutic-scrnaseq]: https://e-kcj.org/pdf/10.4070/kcj.2022.0295
